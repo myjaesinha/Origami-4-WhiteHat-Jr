@@ -1,0 +1,33 @@
+h1{
+    font-style: inherit;
+    background-color: #ffffff;
+    border : solid;
+    border-width:5px;
+    border-color: #20b2aa;
+    margin-left:100px;
+    padding-left:550px;
+}
+body{
+    background-color:#ffa500;
+    font-stretch: wider;
+    padding-left:50px;
+}
+h2{
+    font-size: 20px;
+    background-color:aqua;
+    border : solid;
+    border-color: #98fb98;
+    margin-right:40px;
+    padding-left:100px;
+}
+li{
+    font-weight: bolder;
+    padding-left:30px;
+} 
+
+a:link{
+    color:aqua;
+}
+a:visited{
+    color:purple;
+}
